@@ -634,11 +634,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4417608731920535937, guid: 1f0afd0d06832c249a90a85c06e4811e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 118.8
+      value: 115.4
       objectReference: {fileID: 0}
     - target: {fileID: 4417608731920535937, guid: 1f0afd0d06832c249a90a85c06e4811e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 62.3
+      value: 58.2
       objectReference: {fileID: 0}
     - target: {fileID: 4417608731920535937, guid: 1f0afd0d06832c249a90a85c06e4811e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1112,7 +1112,7 @@ MonoBehaviour:
   - {fileID: 1305863993}
   - {fileID: 1022555213}
   weaponsSprites:
-  - {fileID: 1458739270}
+  - {fileID: 917472602}
   - {fileID: 1458739270}
   armor:
   - {fileID: 0}
@@ -1122,6 +1122,17 @@ MonoBehaviour:
   - {fileID: 700998751}
   armorSprites:
   - {fileID: 32939111}
+--- !u!114 &917472602 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4371173155232310364, guid: 1f0afd0d06832c249a90a85c06e4811e, type: 3}
+  m_PrefabInstance: {fileID: 8113356172438148099}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &988130025
 GameObject:
   m_ObjectHideFlags: 0

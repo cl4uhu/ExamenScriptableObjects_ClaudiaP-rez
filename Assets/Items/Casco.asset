@@ -15,4 +15,4 @@ MonoBehaviour:
   itemType: 1
   itemName: Casco
   itemPrice: 3
-  itemSprite: {fileID: 0}
+  itemSprite: {fileID: 21300000, guid: 88f3130e29af91648966242c1085e6f2, type: 3}
